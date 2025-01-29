@@ -11,7 +11,7 @@ function App() {
           border: "2px solid black",
         }}
       >
-        <h1>React Practice</h1>
+        <h1>React Tut</h1>
       </div>
       <EventHandling></EventHandling>
     </>
