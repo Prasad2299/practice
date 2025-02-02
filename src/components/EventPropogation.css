@@ -1,0 +1,43 @@
+
+.main-div{
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.g-div{
+  background-color: green;
+  border: 1rem solid black;
+  padding: 2rem;
+  width: 40rem;
+  height: 20rem;
+  text-align: center;
+}
+
+.p-div{
+  background-color: aqua;
+  border: 1rem solid black;
+  width: 20rem;
+  padding: 2rem;
+  height: 10rem;
+  width: 40vh;
+  margin: auto;
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.c-div{
+  background-color: pink;
+  border: 1rem solid black;
+  width: 10rem;
+  height: 5rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
