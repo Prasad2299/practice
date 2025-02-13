@@ -6,6 +6,7 @@ import State from "./components/hooks/State";
 import Sibling from "./components/Sibling";
 import LiftingUpState from "./components/LiftingUpState";
 import ToggleSwitch from "./projects/ToggleSwitch";
+import ToDo from "./projects/TODO/ToDo";
 
 function App() {
   return (
@@ -28,7 +29,11 @@ function App() {
       <Sibling></Sibling> */}
       {/* <DerivedState></DerivedState> */}
       {/* <LiftingUpState></LiftingUpState> */}
-      <ToggleSwitch></ToggleSwitch>
+      {/* <ToggleSwitch></ToggleSwitch> */}
+      <section>
+        {" "}
+        <ToDo></ToDo>
+      </section>
     </>
   );
 }
